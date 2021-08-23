@@ -1,10 +1,10 @@
 
 //类的定义,如果类名以_开头，则该类为private类
 class Point {
-  late int a; //如果变量名以_开头，则该变量为private变量
-  late int b;
-  late int _c; //如果变量名以_开头，则该变量为private变量
-  late int _d;
+  int a; //如果变量名以_开头，则该变量为private变量
+  int b;
+  int _c; //如果变量名以_开头，则该变量为private变量
+  int _d;
 
 
   Point();
